@@ -3,8 +3,8 @@
 # Dependencies
 
 - java: 1.8
-- spring-boot: 2.0.2.RELEASE
-- spring-cloud: Finchley.SR1
+- spring-boot: 1.5.11.RELEASE
+- spring-cloud: Edgware.SR3
 - spring-jdbc
 - spring-data-jpa
 - h2
